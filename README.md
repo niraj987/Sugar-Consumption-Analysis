@@ -8,6 +8,9 @@
 ## 📌 Overview
 Welcome to the **Global Sugar Consumption Dataset Analysis**, a rich and insightful technical collection exploring sugar consumption trends across countries from 1960 to 2023. This project aims to facilitate meaningful visualizations, uncover patterns in sugar intake, economic factors, and correlate them with health outcomes worldwide. 
 
+## 🎯 What Problem This Solves
+This analysis addresses the growing global health concerns surrounding dietary habits by identifying direct correlations between sugar intake and rising metrics like obesity and diabetes. By analyzing historical trends across different regions and economic brackets, the project provides data-driven evidence that can empower policymakers, health organizations, and researchers to design targeted public health interventions and dietary regulations.
+
 ## 📊 Dataset Description
 The dataset provided (`Sugar_consumption.xlsx`) includes the following vital metrics and columns:
 - **Demographics & Geography**: Country, ISO Code, Continent, Region, Population, Urbanization Rate (%).
